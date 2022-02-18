@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ecommerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/JacobGit3/E-Commerce-Backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jacob Liberty",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
