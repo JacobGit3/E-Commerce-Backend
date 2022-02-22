@@ -3,6 +3,8 @@ const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
+
+// node could not find and would not let me install this package
 //const { ValidationError } = require('sequelize/types');
 
 // Products belongsTo Category
