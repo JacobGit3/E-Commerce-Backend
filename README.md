@@ -30,6 +30,9 @@
   This project can be used with a front end e-commerce web page to manage their products and wepage data through server commands and updating their data base rather than having to take the webpage down and hard code in all of the data. To use this project you run the server and make requests with parameters to routes. In a finished version these routes and options would be done as a styled html front end page for administrators of the E-commerce page to edit their products and page.
 
   ![categories get request](assets/categories.png)
+  
+  Link to video demonstrating functionality:
+  https://drive.google.com/file/d/1caA87ti0sLqgocYkYxSBMngqgkQFDiDV/view
 
   ## Credits
 
